@@ -1,2 +1,16 @@
 # suivi-compte-titre-et-PEA
-Suivi de portefeuille bourse  Fichier personnel de suivi : - performance - PRU - dividendes - allocation  Libre d’utilisation et d’adaptation.dans ce fichier il y à beaucoups de macros donc il faut activer pour le fonctionnement , ce fichier contient des données de test pour se familiariser avec le fichier , on peut tout effacer pour repartir à zero en cliquand sur un bouton de la feuille chap que tu peut cacher apprés
+Suivi-compte-titre-et-PEA
+
+Suivi de portefeuille bourse
+Fichier personnel de suivi :
+
+Performance
+PRU (Prix de revient unitaire)
+Dividendes
+Allocation
+
+Libre d’utilisation et d’adaptation.
+
+Ce fichier contient de nombreuses macros, il est donc nécessaire de les activer pour que tout fonctionne correctement. Il inclut également des données de test pour se familiariser avec son utilisation.
+
+On peut tout effacer pour repartir à zéro en cliquant sur un bouton présent dans la feuille “Chap”, que tu peux ensuite masquer si nécessaire.
