@@ -37,3 +37,4 @@ Les fonctionnalités que vous aimeriez voir ajoutées
 Vous pouvez signaler un problème ou proposer une amélioration via les issues GitHub.
 
 Merci à toutes les personnes qui prendront le temps de tester et d'améliorer cet outil. 😊
+bourse 4.1.1.ods  dernière version mise à jour et améliorations divers plus enrichissement notice et gestion de certaines erreurs , Changement de nom pour suivre évolution de version , la version est 4 cars j'ai commençé avec une feuille et maintenant je sui à un suivi boursier semi pro 
