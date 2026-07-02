@@ -1,40 +1,75 @@
-Suivi-compte-titre-et-PEA
+📊 Suivi Compte-Titres & PEA (LibreOffice Calc)
 
-Outil de suivi de portefeuille boursier sous LibreOffice Calc.
+Outil gratuit et simple sous LibreOffice Calc pour suivre un portefeuille boursier (CTO et PEA).
 
-Fonctionnalités
+Il permet de gérer ses investissements sans plateforme en ligne, sans abonnement et avec un contrôle total des données.
 
-Ce fichier permet notamment de suivre :
+🎯 Objectif
 
-La performance globale du portefeuille
-Le PRU (Prix de Revient Unitaire)
-Les dividendes perçus
-L'allocation des actifs
-L'évolution de vos investissements
-Informations importantes
+Beaucoup d’outils de suivi de portefeuille sont :
 
-Le fichier contient plusieurs macros nécessaires à son bon fonctionnement. Il est donc indispensable d'autoriser leur exécution à l'ouverture du document.
+trop complexes
+payants
+ou basés sur le cloud
 
-Des données d'exemple sont incluses afin de faciliter la prise en main et la découverte des différentes fonctionnalités.
+Ce fichier propose une alternative :
+👉 un tableur simple, transparent et personnalisable
 
-Pour repartir d'une base vierge, il suffit d'utiliser le bouton de réinitialisation présent dans la feuille "Chap". Cette feuille peut ensuite être masquée si vous le souhaitez.
+✨ Fonctionnalités
+Suivi des achats et ventes
+Calcul automatique du prix de revient unitaire (PRU)
+Suivi des dividendes
+Calcul des plus-values / moins-values
+Vision globale de la performance du portefeuille
+Compatible PEA et compte-titres (CTO)
+📸 Aperçu
+<img width="3686" height="1671" alt="image" src="https://github.com/user-attachments/assets/b364bf54-ce4d-42bb-9cc2-57826e787bea" />
+<img width="3679" height="1409" alt="image" src="https://github.com/user-attachments/assets/04ba4285-c1ad-4c1f-8a2e-8e8826a97a00" />
+<img width="3783" height="1659" alt="image" src="https://github.com/user-attachments/assets/4bbc68f8-6c0b-46c7-81be-b2f0523ff3f9" />
+<img width="3629" height="1606" alt="image" src="https://github.com/user-attachments/assets/20f9927f-d0ae-4a9c-b81c-752aee8d8533" />
+<img width="3701" height="1633" alt="image" src="https://github.com/user-attachments/assets/94276c34-966e-4b59-a4fe-bde76a514a61" />
 
-Utilisation
 
-Ce fichier est libre d'utilisation et peut être adapté à vos besoins personnels.
 
-Retours et améliorations
+🚀 Installation
+Télécharger la dernière version dans les Releases
+Ouvrir le fichier avec LibreOffice Calc
+Commencer à saisir vos opérations
+Il y à des opérations fictives pour une meilleur compréhention du fichier une remise à zero est disponible par bouton dans la feuille CHAP , et vous pourer commencer le gestion de votre compte
 
-Vos retours sont les bienvenus !
+👉 Aucune installation nécessaire
 
-Si vous utilisez ce fichier, n'hésitez pas à partager :
+👤 Pour qui ?
+Investisseurs particuliers
+Utilisateurs de PEA / CTO ou ETF 
+Personnes qui veulent éviter les outils complexes ou payants
+Ceux qui préfèrent un fichier local et maîtrisé
+🔒 Données privées
 
-Votre expérience d'utilisation
-Les éventuels bugs rencontrés
-Vos suggestions d'amélioration
-Les fonctionnalités que vous aimeriez voir ajoutées
+Tout reste sur votre ordinateur :
 
-Vous pouvez signaler un problème ou proposer une amélioration via les issues GitHub.
+aucune connexion internet , seulement pour télécharger les cours et consultation de boursorama et Bourse direct
+aucune collecte de données
+aucun compte requis
+💡 Pourquoi ce projet ?
 
-Merci à toutes les personnes qui prendront le temps de tester et d'améliorer cet outil. 😊
-bourse 4.1.1.ods  dernière version mise à jour et améliorations divers plus enrichissement notice et gestion de certaines erreurs , Changement de nom pour suivre évolution de version , la version est 4 cars j'ai commençé avec une feuille et maintenant je sui à un suivi boursier semi pro 
+Ce fichier a été créé pour répondre à un besoin simple :
+👉 suivre ses investissements sans dépendre de plateformes externes
+
+🧪 Statut du projet
+
+Version 4.4.0 – projet en amélioration continue mais plus d'idées sans surcharger 
+
+💬 Les retours et suggestions sont les bienvenus (issues GitHub)
+
+📥 Téléchargement
+
+👉 Voir la section Releases
+
+⚠️ Important
+
+Ce projet est un outil de suivi et ne constitue pas un conseil financier.
+
+import automatique de transactions
+
+⭐ Si ce projet vous est utile, n’hésitez pas à laisser une étoile ou un retour 
