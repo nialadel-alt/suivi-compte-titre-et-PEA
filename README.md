@@ -1,3 +1,12 @@
+# 📊 Suivi Compte-Titres & PEA (LibreOffice Calc)
+
+## 📥 DERNIÈRE VERSION
+
+👉 [Télécharger la dernière version](../../releases/latest)
+
+---
+
+
 📊 Suivi Compte-Titres & PEA (LibreOffice Calc)
 
 Outil gratuit et simple sous LibreOffice Calc pour suivre un portefeuille boursier (CTO et PEA).
