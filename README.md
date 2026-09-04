@@ -41,10 +41,10 @@ Compatible PEA et compte-titres (CTO)
 
 
 🚀 Installation
-Télécharger la dernière version dans les Releases
+Télécharger la dernière version dans les Releases dézipper le fichier
 Ouvrir le fichier avec LibreOffice Calc
 Commencer à saisir vos opérations
-Il y à des opérations fictives pour une meilleur compréhention du fichier une remise à zero est disponible par bouton EFFACER TOUTES LES DONNÉES DU FICHIER BOURSE dans la feuille Sauvegarde , et vous pourer commencer le gestion de votre compte
+Il y à des opérations fictives pour une meilleur compréhention du fichier une remise à zero est disponible par bouton EFFACER TOUTES LES DONNÉES DU FICHIER BOURSE dans la feuille Sauvegarde , et vous pourrez commencer la gestion de votre compte
 
 👉 Aucune installation nécessaire
 
