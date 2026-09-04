@@ -67,7 +67,7 @@ Ce fichier a été créé pour répondre à un besoin simple :
 
 🧪 Statut du projet
 
-Version 4.4.0 – projet en amélioration continue mais plus d'idées sans surcharger 
+Version 4.5 – projet en amélioration continue mais plus d'idées sans surcharger 
 
 💬 Les retours et suggestions sont les bienvenus (issues GitHub)
 
